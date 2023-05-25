@@ -1,0 +1,6 @@
+{
+  "application1": "salesforce-sapi",
+  "status1": "Running",
+  "application2": "xap-xapi",
+  "status2": "Stopped"
+}
